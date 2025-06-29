@@ -1,5 +1,0 @@
--- https://www.sqlzoo.net/wiki/SELECT_basics
-
-1. show the population of Germany
-SELECT population FROM world
-WHERE name = 'Germany';
